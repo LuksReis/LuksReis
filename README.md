@@ -19,7 +19,15 @@ I am Lucas Reis, i'm work with IT Infraesctructure regarding Microsoft Solutions
 
 ## 💡 Advanced knowledge
 
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> 
+![Powershell](https://img.shields.io/badge/Powershell-012456?style=for-the-badge&logo=WPF&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-337BB7?style=for-the-badge&logo=Azure&logoColor=white)
+![SCCM](https://img.shields.io/badge/SCCM-225679?style=for-the-badge&logo=SCCM&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=Zabbix&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-27BDF3?style=for-the-badge&logo=Cisco&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-346B83?style=for-the-badge&logo=WPF&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-00AE00?style=for-the-badge&logo=Selenium&logoColor=white)
+![WindowsServer](https://img.shields.io/badge/WindowsServer-00A8E8?style=for-the-badge&logo=WindowsServer&logoColor=white)
+
 
 <br/>
 
