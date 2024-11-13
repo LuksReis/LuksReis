@@ -7,13 +7,13 @@
 
 ## About Me
 
-I am Lucas Reis, i'm work with IT Infraesctructure regarding Microsoft Solutions, Network, Monitoring Zabbix and Automations using PowerShell! <img src="https://img.shields.io/badge/Azure-337BB7"/><img src="https://img.shields.io/badge/SCCM-225679"/><img src="https://img.shields.io/badge/Zabbix-D40000"/><img src="https://img.shields.io/badge/Cisco-27BDF3"/>
+I am Lucas Reis, i'm work with IT Infrastructure regarding Microsoft Solutions, Network, Monitoring Zabbix and Automations using PowerShell! <img src="https://img.shields.io/badge/Azure-337BB7"/><img src="https://img.shields.io/badge/SCCM-225679"/><img src="https://img.shields.io/badge/Zabbix-D40000"/><img src="https://img.shields.io/badge/Cisco-27BDF3"/>
 
 <br> 
 
 ## ⚙️ Projects
 
--  I’m currently working in my first repository <a href="https://github.com/LuksReis/PowerShellPalace" target="blank">PowerShellPalace</a>
+-  I'm currently working on my first repository <a href="https://github.com/LuksReis/PowerShellPalace" target="blank">PowerShellPalace</a>
 
 <br/>
 
