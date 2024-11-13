@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas Reis</a></h1>
-<h3 align="center">An <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />  Fanatic</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />  <img src="https://img.shields.io/badge/Fanatic-9B111E?style=for-the-badge&logo=Fanatic&logoColor=white"/></h3>
+
+
 
 <br/>
 
 ## About Me
 
-I am Lucas Reis, i'm work with IT Infraesctructure regarding Microsoft Solutions [Azure, SCCM, Hyper V, etc], Network, Monitoring Zabbix and Automations using PowerShell!
+I am Lucas Reis, i'm work with IT Infraesctructure regarding Microsoft Solutions, Network, Monitoring Zabbix and Automations using PowerShell! <img src="https://img.shields.io/badge/Azure-337BB7"/><img src="https://img.shields.io/badge/SCCM-225679"/><img src="https://img.shields.io/badge/Zabbix-D40000"/><img src="https://img.shields.io/badge/Cisco-27BDF3"/>
 
 <br> 
 
